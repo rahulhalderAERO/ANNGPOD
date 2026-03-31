@@ -75,3 +75,12 @@ This repository contains Python scripts to perform Reduced Order Modeling (ROM) 
 1. **RBFPOD Training:**  
 ```bash
 python Auto_RBFPOD_88_Train.py
+
+2. **RBFPOD Prediction:**  
+```bash
+python Auto_RBFPOD_88_pred.py
+
+3. **ANNGPOD Training & Prediction::**  
+```bash
+python Auto_ANNGPOD_88_Experiment.py
+
