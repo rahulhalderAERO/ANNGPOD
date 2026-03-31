@@ -1,4 +1,4 @@
-# RBFPOD & ANNGPOD 88-Sample CFD-ML Framework
+# RBFPOD & ANNGPOD 
 
 This repository contains Python scripts to perform Reduced Order Modeling (ROM) using **RBFPOD** and **ANNGPOD** for CFD data, along with post-processing for error analysis against experimental and CFD results.
 
